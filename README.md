@@ -17,3 +17,13 @@ This project is built with data from DonorChoose.org. DonorChoose is a charity i
  - Dc.js
  - Crossfilter.js
  - Queue.js
+
+## Issues Faced
+
+Deployment of this project was tricky, using a free cloud application platform such as heroku. 
+
+Getting the interactive charts and graphs to read the data. 
+
+## Issues not fixed
+
+Design is not compatible with mobile size. 
